@@ -1,0 +1,1 @@
+This project is a Vulkan-based application that demonstrates rendering a simple red triangle using modern graphics technologies. It utilizes Vulkan API for low-level GPU control, GLFW for window management, and SPIR-V shaders compiled from GLSL. The application showcases efficient resource management and a robust graphics pipeline setup.
